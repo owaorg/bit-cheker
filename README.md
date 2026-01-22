@@ -1,2 +1,12 @@
 # bit-cheker
 bases checker proxy
+
+Это базовый чекер прокси который не имеет многопоточности.
+
+Установка библиотек: pip install -r lib.txt
+
+Запуск: python main.py
+
+Занести прокси для проверки - proxy-list.txt Получить рабочие прокси - work-proxy.txt
+
+Задержка на ответ - 1сек.
